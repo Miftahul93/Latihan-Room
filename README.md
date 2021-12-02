@@ -1,5 +1,7 @@
 # Latihan-Room
 Pada codelab kali ini Anda akan mempelajari bagaimana mengimplementasikan Room dalam membuat aplikasi Android. 
+https://www.dicoding.com/academies/14/tutorials/19612
+
 Alur Latihan
 Berikut alur yang akan kita lakukan dalam latihan kali ini:
 
